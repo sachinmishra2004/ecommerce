@@ -1,0 +1,15 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,700&family=Urbanist:wght@400;800&display=swap');
+body{
+font-family: 'Inter', sans-serif;
+}
+header{
+  z-index:10001 !important;
+}
+
+/* .section-container {
+   apply max-w-screen-2xl container mx-auto xl:px-24 px-4;
+} */
+/* .heartStar{
+  border-radius: 0px 37.5px opx 42.5px;
+} */
